@@ -1,2 +1,2 @@
-This is the read me file
-Modification in main branch.
+## Git Branching and Merge Conflict Task
+Objective: Practice branching, merging, and resolving conflicts.
